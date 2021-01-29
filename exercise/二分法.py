@@ -38,3 +38,4 @@ if __name__ == "__main__":
     print(binary_search(a, 11))
     print(binary_search_2(a, 5))
     print(binary_search_2(a, 11))
+    print(binary_search_2(a, 3))
